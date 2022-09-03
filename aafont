@@ -1,3 +1,3 @@
-ISO10646_UCS4_1=Terminus 14 # default font
-U+0590-05FF=basis33 16 # hebrew unicode range, you can use a different font
+ISO10646_UCS4_1=Terminus 16 # default font
+U+0590-05FF=basis33 14 # hebrew unicode range, you can use a different font
 U+1F3B4-1F64F=Noto Color Emoji  #I'm  not 100% this is the entire emoji unicode range 
